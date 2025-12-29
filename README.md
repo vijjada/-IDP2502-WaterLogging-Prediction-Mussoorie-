@@ -210,5 +210,51 @@ Using **hyperspectral remote sensing**, terrain analysis, and hydrological model
 
 ---
 
+IDP2502-WaterLogging-Mussoorie/
+├── README.md # Project overview and documentation
+├── IDP-REPORT.pdf # Full report as submitted for IDP2502
+├── images/
+│ ├── flood-risk-map.png
+│ ├── mussoorie-dem-slope.png
+│ ├── ndwi-moisture-zones.png
+│ └── lulc-map.png
+└── docs/
 
+---
+
+## 📚 References
+
+The project draws on peer-reviewed literature, government reports, and news articles related to:
+
+- Urban flooding and blue–green infrastructure  
+- Landslide and slope stability in the Mussoorie region  
+- Carrying capacity and environmental impact of tourism in Mussoorie  
+- Extreme rainfall events and monsoon variability in Uttarakhand  
+
+(Full reference list is available in **IDP-REPORT.pdf**.)
+
+---
+
+## 📝 Note
+
+This repository documents our **IDP2502 group project report and presentation**.  
+The **final detailed research paper** or any extended analysis, if prepared later, will be added or linked separately.
+
+---
+
+## 📧 Contact & Collaboration
+
+For academic or collaboration queries:
+
+- **Mentor**: Dr. Manu Banga, GD Goenka University  
+- For questions about this repository, please open an issue or contact any team member via LinkedIn or institutional email.
+
+---
+
+## 📄 License
+
+You may optionally include a simple open license (e.g., **MIT License** or **CC BY 4.0**) if you want others to reuse figures or concepts with attribution.  
+If you add a license file, mention it here clearly.
+
+---
 
